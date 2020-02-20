@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
-import 'package:flutter_app_tablayout/new_page.dart';
-import 'package:flutter_app_tablayout/feed_body.dart';
+import 'new_page.dart';
+import 'feed_body.dart';
 
 void main() => runApp(new MyApp());
 

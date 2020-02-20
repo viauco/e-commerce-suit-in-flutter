@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app_tablayout/CategoriesCollection.dart';
-import 'package:flutter_app_tablayout/CarouselDemo.dart';
-import 'package:flutter_app_tablayout/Dealsoftheday.dart';
-import 'package:flutter_app_tablayout/Single_brand_promotion.dart';
+import 'CategoriesCollection.dart';
+import 'CarouselDemo.dart';
+import 'Dealsoftheday.dart';
+import 'Single_brand_promotion.dart';
 
 //Feed page with a collection of multiple Widgets
 class FeedWidgetList extends StatelessWidget {

@@ -1,2 +1,3 @@
-path_provider=D:\\flutter_SDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-0.4.1\\
-shared_preferences=D:\\flutter_SDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.4.3\\
+# This is a generated file; do not edit or check into version control.
+path_provider=/home/cherry/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.0/
+sqflite=/home/cherry/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.2.1/
