@@ -19,14 +19,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  #carosel
-  carousel_slider: ^1.4.1
-  #cache image
-  cached_network_image: ^2.0.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
+  cloud_firestore: ^0.13.3
+  firebase_auth: ^0.15.4
+  firebase_database: ^3.1.1
+  firebase_storage: ^3.1.1
+  shared_preferences: ^0.5.6+1
+  image_picker: ^0.6.3+3
 
 dev_dependencies:
   flutter_test:
@@ -74,16 +76,3 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
-  assets:
-    - lib/assets/img.png
-    - 'lib/assets/honor 10.png'
-    - 'lib/assets/iphone 6s.png'
-    - 'lib/assets/iphone 8.png'
-    - 'lib/assets/oppo f7.png'
-    - 'lib/assets/sports shoes.png'
-  fonts:
-    -
-      family: Billabong
-      fonts:
-        -
-          asset: lib/fonts/Billabong.ttf
