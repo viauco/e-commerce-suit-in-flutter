@@ -32,7 +32,6 @@ class _AddProductsState extends State<AddProducts> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     colorList = new List.from(localColors);
     sizeList = new List.from(localSizes);
@@ -229,7 +228,5 @@ class _AddProductsState extends State<AddProducts> {
       showSnackBar("Please select a size", scaffoldKey);
       return;
     }
-
-    Map newProduct = {};
   }
 }

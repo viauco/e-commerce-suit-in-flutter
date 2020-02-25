@@ -304,7 +304,7 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
             new Divider(),
-            new ListTile(
+            /*new ListTile(
               trailing: new CircleAvatar(
                 child: new Icon(
                   Icons.help,
@@ -318,7 +318,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     builder: (BuildContext context) => new GirliesAboutUs()));
               },
               //
-            ),
+            ),*/
             new ListTile(
               trailing: new CircleAvatar(
                 child: new Icon(

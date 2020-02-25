@@ -5,7 +5,6 @@ import 'package:shop/tools/app_methods.dart';
 import 'app_data.dart';
 import 'app_tools.dart';
 import 'package:flutter/services.dart';
-import 'dart:io';
 
 class FirebaseMethods implements AppMethods {
   Firestore firestore = Firestore.instance;

@@ -127,14 +127,13 @@ class _SignUpState extends State<SignUp> {
         phone: phoneNumber.text,
         email: email.text.toLowerCase(),
         password: password.text.toLowerCase());
-
+    closeProgressDialog(context);
     if (response == successful) {
-      closeProgressDialog(context);
       Navigator.of(context).pop();
       Navigator.of(context).pop(true);
-    } else {
-      closeProgressDialog(context);
-      showSnackBar(response, scaffoldKey);
+    } 
+    else {
+      showSnackBar(response ?? 'error', scaffoldKey);
     }
   }
 }

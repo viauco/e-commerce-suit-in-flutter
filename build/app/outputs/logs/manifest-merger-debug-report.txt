@@ -18,6 +18,7 @@ MERGED from [:flutter_plugin_android_lifecycle] /home/cherry/project/e-commerce-
 MERGED from [:shared_preferences] /home/cherry/project/e-commerce-app/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:shared_preferences_web] /home/cherry/project/e-commerce-app/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:shared_preferences_macos] /home/cherry/project/e-commerce-app/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/cherry/.gradle/caches/transforms-2/files-2.1/2b16ac6c4193835014f293427ee35afa/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/cherry/.gradle/caches/transforms-2/files-2.1/337e24a263fdd84e41b4282b5c834462/firebase-auth-19.2.0/AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/cherry/.gradle/caches/transforms-2/files-2.1/82cddce38b8af454b29d9670840e25f1/jetified-firebase-storage-17.0.0/AndroidManifest.xml:15:1-37:12
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/cherry/.gradle/caches/transforms-2/files-2.1/5bbfdfb8e2d1f208a699005286fb7cf3/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:2:1-26:12
@@ -187,6 +188,8 @@ MERGED from [:shared_preferences_web] /home/cherry/project/e-commerce-app/build/
 MERGED from [:shared_preferences_web] /home/cherry/project/e-commerce-app/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:shared_preferences_macos] /home/cherry/project/e-commerce-app/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:shared_preferences_macos] /home/cherry/project/e-commerce-app/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/cherry/.gradle/caches/transforms-2/files-2.1/2b16ac6c4193835014f293427ee35afa/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/cherry/.gradle/caches/transforms-2/files-2.1/2b16ac6c4193835014f293427ee35afa/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/cherry/.gradle/caches/transforms-2/files-2.1/337e24a263fdd84e41b4282b5c834462/firebase-auth-19.2.0/AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/cherry/.gradle/caches/transforms-2/files-2.1/337e24a263fdd84e41b4282b5c834462/firebase-auth-19.2.0/AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/cherry/.gradle/caches/transforms-2/files-2.1/82cddce38b8af454b29d9670840e25f1/jetified-firebase-storage-17.0.0/AndroidManifest.xml:20:5-22:41
